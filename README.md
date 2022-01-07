@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheMelone2
 - 👀 I’m interested in Develope and Support
 - 🌱 I’m currently learning java
-- 💞️ I'm not single <3
 - 📫 My Socials:
       Discord: TheMelone2#9991
       Youtube: TheMelone2
