@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheMelone2
-- 👀 I’m interested in Develope and Support
+- 👀 I’m interested in Developement
 - 🌱 I’m currently learning java
 - 📫 My Socials:
       Discord: TheMelone2#9991
