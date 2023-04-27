@@ -1,5 +1,6 @@
 <h1 align="center">Heeelloo 👋, I'm TheMelone2 or just Jan Luca</h1>
 <h3 align="center">A passionate application & web developer from Germany</h3>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T5KGK5E)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themelone2" alt="themelone2" /></a> </p>
 
