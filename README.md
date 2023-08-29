@@ -2,7 +2,9 @@
 <h3 align="center">A passionate application & web developer from Germany</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themelone2" alt="themelone2" /></a> </p>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'T6T5KGK5E');kofiwidget2.draw();</script> 
+
+<a href='https://ko-fi.com/T6T5KGK5E' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 <p align="left"> <a href="https://twitter.com/themelone2" target="blank"><img src="https://img.shields.io/twitter/follow/themelone2?logo=twitter&style=for-the-badge" alt="themelone2" /></a> </p>
 
 - 🔭 I’m currently working on [Dienstify (Currently Private)](https://github.com/dienstify/dienstify-web)
