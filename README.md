@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Dienstify (Currently Private)](https://github.com/dienstify/dienstify-web)<br><br>
+- 🔭 I’m currently working on the [EasyThreads Dashboard](https://github.com/easy-systems)<br><br>
 - 🌱 I’m currently learning working on & with mobile apps<br><br>
 - 👯 I’m looking to collaborate on the [MCG-App](https://github.com/MCG-App/MCG-App)<br><br>
 - 💬 Ask me about **web development :D**<br><br>
